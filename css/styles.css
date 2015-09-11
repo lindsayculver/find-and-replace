@@ -1,3 +1,30 @@
+body {
+  background: url("images/waldo.jpg") center top no-repeat;
+  background-size: cover
+  opacity: .5;
+}
+
+.container {
+  background-color: white;
+  border-radius: 25px;
+  margin-top: 250px;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Covered By Your Grace', cursive;
+  font-size: 60px;
+}
+
+#findandreplace {
+  text-align: center;
+  font-family: 'Covered By Your Grace', cursive;
+  font-size: 25px;
+}
+
 #result {
-  display: none;
+  font-family: 'Covered By Your Grace', cursive;
+  font-size: 45px;
+  text-align: center;
+  padding-top: 80px;
 }
