@@ -1,13 +1,11 @@
 body {
   background: url("images/waldo.jpg") center top no-repeat;
-  background-size: cover
-  opacity: .5;
 }
 
 .container {
-  background-color: white;
+  background-color: #e8e7e9;
   border-radius: 25px;
-  margin-top: 250px;
+  margin-top: 259px;
 }
 
 h1 {
@@ -24,7 +22,7 @@ h1 {
 
 #result {
   font-family: 'Covered By Your Grace', cursive;
-  font-size: 45px;
+  font-size: 55px;
   text-align: center;
-  padding-top: 80px;
+  padding-top: 27px;
 }
